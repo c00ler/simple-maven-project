@@ -1,4 +1,7 @@
 <gradleEnterprise>
+    <server>
+        <url>http://localhost:8080</url>
+    </server>
     <buildScan>
         <termsOfService>
             <url>https://gradle.com/terms-of-service</url>
