@@ -1,0 +1,8 @@
+<develocity>
+  <buildScan>
+    <termsOfUse>
+      <url>https://gradle.com/terms-of-service</url>
+      <accept>true</accept>
+    </termsOfUse>
+  </buildScan>
+</develocity>
